@@ -1,9 +1,9 @@
-# Created by https://www.gitignore.io/api/codeblocks
+  Created by https://www.gitignore.io/api/codeblocks
 
 ### CodeBlocks ###
 # specific to CodeBlocks IDE
-*.layout
-*.depend
+#.layout
+!.depend
 
 # generated directories
 bin/
@@ -13,3 +13,4 @@ obj/
 
 ### temporary folder
 temp/
+ 
